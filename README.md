@@ -4,7 +4,7 @@
 <h2> Camera Model
 
 - AVFoundation
-  >AVFoundation on iOS-i, macOS-i, watchOS-i ja tvOS-i ajapõhise audiovisuaalse meediumiga töötamise raamistik. AVFoundationi abil saate hõlpsalt mängida, luua ja redigeerida QuickTime-filme ja MPEG-4-faile, mängida HLS-voogusid ja luua rakendustes võimsa meediumifunktsioonide.
+  >AVFoundation on iOS-i, macOS-i, watchOS-i ja tvOS-i ajapõhise audiovisuaalse meediumiga töötamise raamistik. AVFoundationi abil saate hõlpsalt mängida, luua ja redigeerida QuickTime-filme ja MPEG-4-faile, mängida HLS-voogusid ja luua rakendustes võimsaid meediumifunktsioone.
 
 
 - NSObject
