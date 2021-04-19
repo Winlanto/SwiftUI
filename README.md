@@ -23,4 +23,4 @@
 
 <h3> Camera Preview
 
-- seadisatab kaamera sessiooni
+- seadisatab kaamera sessiooni ning sealsamas kaamera konfiguratsioonide seadistamine (*näiteks: kaamera zoom, auto-focus, kaamera sügavus, jne*)
